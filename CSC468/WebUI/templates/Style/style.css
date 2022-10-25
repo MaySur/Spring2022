@@ -1,0 +1,29 @@
+.container .box-1{
+    width:50%;
+    margin: auto;
+}
+
+.categories{
+    width: 100%;
+    margin: auto;
+}
+.box-1{
+    color:#FF4500 ;
+
+}
+
+.box-1 h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    text-decoration:underline;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    word-spacing: 0.2em;
+}
+
+.container box-2{
+    text-decoration:underline;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
